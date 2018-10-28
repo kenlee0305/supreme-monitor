@@ -1,7 +1,7 @@
 ![alt text](https://i.yapx.ru/CiVQP.jpg)
 
-**Dodjer Product Monitor**
-_You can rent my monitoring system for a specific price.
+_**Dodjer Product Monitor**_
+_You can rent my monitoring system for a specific price._
 I have many monitors, including Discord, Supreme, Vkontakte, Twitter, Bots and more...
 You can use monitor for detect new product release and automatically detect when a product page has been uploaded._
 
