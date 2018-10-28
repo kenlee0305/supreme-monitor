@@ -1,12 +1,12 @@
 ![alt text](https://i.yapx.ru/CiVQP.jpg)
 
 **_Dodjer Product Monitor_**
-You can rent my monitoring system for a specific price.
-I have many monitors, including Discord, Supreme, Vkontakte, Twitter, Bots and more...
+_You can rent my monitoring system for a specific price._
+_I have many monitors, including Discord, Supreme, Vkontakte, Twitter, Bots and more..._
 You can use monitor for detect new product release and automatically detect when a product page has been uploaded.
 
-**Documentation**
-Import you webhook url and enter proxy path
+_**Documentation**_
+_Import you webhook url and enter proxy path_
 
 **Price**
 100 - 200 USD
