@@ -12,8 +12,8 @@ _Import you webhook url and enter proxy path_
 100 - 200 USD
 
 **Contact:**
-Vk:https://vk.com/doodjjeer
-Twitter: https://twitter.com/doodjjer 
+Vk:    https://vk.com/doodjjeer
+Twitter:     https://twitter.com/doodjjer 
 
 
 ![alt text](https://i.yapx.ru/CiV3V.jpg)
